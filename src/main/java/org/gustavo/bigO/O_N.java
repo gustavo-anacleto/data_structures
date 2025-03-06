@@ -1,4 +1,4 @@
-package org.example.bigO;
+package org.gustavo.bigO;
 
 public class O_N {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.pointer;
+package org.gustavo.pointer;
 
 import java.util.HashMap;
 

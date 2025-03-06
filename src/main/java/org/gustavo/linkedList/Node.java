@@ -1,4 +1,4 @@
-package org.example.linkedList;
+package org.gustavo.linkedList;
 
 public class Node<T> {
     private T value;
